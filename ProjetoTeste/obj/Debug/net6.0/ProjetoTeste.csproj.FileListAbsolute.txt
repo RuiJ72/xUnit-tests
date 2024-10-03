@@ -1,0 +1,28 @@
+D:\VS-Workplace\Testes com xUnit\ProjetoTeste\ProjetoTeste\bin\Debug\net6.0\ProjetoTeste.exe
+D:\VS-Workplace\Testes com xUnit\ProjetoTeste\ProjetoTeste\bin\Debug\net6.0\ProjetoTeste.deps.json
+D:\VS-Workplace\Testes com xUnit\ProjetoTeste\ProjetoTeste\bin\Debug\net6.0\ProjetoTeste.runtimeconfig.json
+D:\VS-Workplace\Testes com xUnit\ProjetoTeste\ProjetoTeste\bin\Debug\net6.0\ProjetoTeste.dll
+D:\VS-Workplace\Testes com xUnit\ProjetoTeste\ProjetoTeste\bin\Debug\net6.0\ProjetoTeste.pdb
+D:\VS-Workplace\Testes com xUnit\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-Workplace\Testes com xUnit\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.AssemblyInfoInputs.cache
+D:\VS-Workplace\Testes com xUnit\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.AssemblyInfo.cs
+D:\VS-Workplace\Testes com xUnit\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.csproj.CoreCompileInputs.cache
+D:\VS-Workplace\Testes com xUnit\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.dll
+D:\VS-Workplace\Testes com xUnit\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\refint\ProjetoTeste.dll
+D:\VS-Workplace\Testes com xUnit\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.pdb
+D:\VS-Workplace\Testes com xUnit\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.genruntimeconfig.cache
+D:\VS-Workplace\Testes com xUnit\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ref\ProjetoTeste.dll
+D:\VS-Workplace\ProjetoTeste\ProjetoTeste\bin\Debug\net6.0\ProjetoTeste.exe
+D:\VS-Workplace\ProjetoTeste\ProjetoTeste\bin\Debug\net6.0\ProjetoTeste.deps.json
+D:\VS-Workplace\ProjetoTeste\ProjetoTeste\bin\Debug\net6.0\ProjetoTeste.runtimeconfig.json
+D:\VS-Workplace\ProjetoTeste\ProjetoTeste\bin\Debug\net6.0\ProjetoTeste.dll
+D:\VS-Workplace\ProjetoTeste\ProjetoTeste\bin\Debug\net6.0\ProjetoTeste.pdb
+D:\VS-Workplace\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-Workplace\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.AssemblyInfoInputs.cache
+D:\VS-Workplace\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.AssemblyInfo.cs
+D:\VS-Workplace\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.csproj.CoreCompileInputs.cache
+D:\VS-Workplace\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.dll
+D:\VS-Workplace\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\refint\ProjetoTeste.dll
+D:\VS-Workplace\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.pdb
+D:\VS-Workplace\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ProjetoTeste.genruntimeconfig.cache
+D:\VS-Workplace\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ref\ProjetoTeste.dll
